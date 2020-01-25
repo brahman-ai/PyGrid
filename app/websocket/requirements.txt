@@ -3,13 +3,13 @@ Flask==1.0.2
 Flask-Cors==3.0.7
 Flask-Sockets==0.2.1
 gevent==1.4.0
-git+git://github.com/OpenMined/PySyft@master
+git+git://github.com/brahman-ai/PySyft@setupRPi
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 psycopg2-binary
-torch == 1.3.0
+https://github.com/brahman-ai/PyTorch-and-Vision-for-Raspberry-Pi-4B/blob/master/torch-1.3.0a0%2Bdeadc27-cp37-cp37m-linux_armv7l.whl?raw=true
 Werkzeug==0.15.3
 requests
 requests_toolbelt
